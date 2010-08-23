@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+        <field key="author" value="Aaron Unger" />
+        <field key="version" value="0.1" />
+        <field key="description" value="Ability to create files in multiple groups with one go" />
+        <field key="website" value="http://www.concord.org/" />
+        <field key="copyright" value="(C) Concord Consortium 2010" />
+        <field key="licence" value="GNU Public License version 2" />
+</plugin_manifest>
